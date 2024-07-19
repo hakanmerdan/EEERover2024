@@ -1,6 +1,6 @@
 # Mark Scheme
 ### Interim Presentation
-|**Weighting of presentation in module mark** | **25/100** |
+|**Weighting of presentation in module mark** | **20/100** |
 | ----------- | -------- |
 
 | Area of Assessment							| Weighting | High Mark | Medium Mark | Low Mark |
@@ -10,10 +10,12 @@
 | System Implementation | 30/100 | • Evidence that all system interfaces are implemented, using emulation or placeholder data where necessary <br> • Some implementation of functionality in each subsytem <br> • Some infrastructure is in place for evaluation | • Some progress on subsystem implementation <br> • Some progress on system interfaces allowing interaction of some subsystems | • Some subsystem implementation but little attempt at system integration ||
 | Project Management					| 20/100 | • All group member roles are defined<br> • Risks and contingencies identified<br> • Significant contribution of each group member<br> • Project management framework adopted | • Clear division of work between group members | • Roles of group members are unclear ||
 
-
+### Professional Practice
+| **Reflections on professional practice (once per week)** | **5/100** |
+| ----------- | -------- |
 
 ### Report
-|**Weighting of presentation in module mark** | **50/100** |
+|**Weighting of presentation in module mark** | **35/100** |
 | ----------- | -------- |
 |**Word limit** | **10000** |
 
@@ -39,7 +41,7 @@
 
 
 ### Demonstration
-|**Weighting of presentation in module mark** | **25/100** |
+|**Weighting of presentation in module mark** | **40/100** |
 | ----------- | -------- |
 
 | Area of Assessment							| Weighting | High Mark | Medium Mark | Low Mark |
