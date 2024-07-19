@@ -3,7 +3,7 @@
 |**Weighting of presentation in module mark** | **25/100** |
 | ----------- | -------- |
 
-| Areas of Assessment							| Weighting | High Mark | Medium Mark | Low Mark |
+| Area of Assessment							| Weighting | High Mark | Medium Mark | Low Mark |
 | --------- |  --------- | --------- | ----------- | -------- |
 | Requirements Capture			| 20/100 | • Original requirements expanded into project specific requirements <br> • Quantitative specifications given where appropriate <br> • Requirements for subsystems | • Project requirements are expanded and customised |• Project aims are given, but there is some ambiguity |
 | System Design | 30/100 | • Strong reasoning for system design decisions <br> • All blocks and interfaces defined <br>| • Core elements of the system are defined <br> • The system design is mostly plausible | • Some important blocks or interfaces in the system are undefined <br> • Unreasonable assumptions about how parts of the design will work|
@@ -18,7 +18,7 @@
 |**Word limit** | **10000** |
 
 
-| Areas of Assessment							| Weighting | High Mark | Medium Mark | Low Mark |
+| Area of Assessment							| Weighting | High Mark | Medium Mark | Low Mark |
 | --------- |  --------- | --------- | ----------- | -------- |
 |Design Process| 20/100 | • Logical progression of design from top-level requirements to detailed implementation and evaluation <br> • Discussion of all important design decisions with quantitative and qualitative evidence <br> • Interesting discussion of project planning and organisation | • Requirements in place for most of the functionality of the system <br> • Discussion of design decisions, but some unclear reasoning and/or unimportant details <br>  • Full breakdown of task allocation to group members | • Some elaboration of requirements beyond original points in project brief <br> • Some discussion of design decisions, but important aspects given trivial or no reasoning ||
 | Implementation | 60/100 |• Design is a technically complex system of interacting components <br> • Advanced techniques and skills are applied, requiring research beyond module content <br> | • Design is a mostly-functional system, maybe some elements are not integrated <br> • Design makes good use of EEE/EIE module content | • Elements of the project are designed, but the project is not functional as a complete system <br> • Some design elements are technically plausible ||
@@ -30,7 +30,7 @@
 |**Weighting of reflection in module mark:** | **You must pass each component**|
 | ----------- | -------- |
 
-| Areas of Assessment							| Pass |
+| Area of Assessment							| Pass |
 | ----------- | -------- |
 | Security |Adopt a holistic and proportionate approach to the mitigation of security risks|
 | EDI | Adopt an inclusive approach to engineering practice and recognise the responsibilities, benefits and importance of supporting equality, diversity and inclusion |
@@ -42,7 +42,7 @@
 |**Weighting of presentation in module mark** | **25/100** |
 | ----------- | -------- |
 
-| Areas of Assessment							| Weighting | High Mark | Medium Mark | Low Mark |
+| Area of Assessment							| Weighting | High Mark | Medium Mark | Low Mark |
 | --------- |  --------- | --------- | ----------- | -------- |
 | Functionality | 30/100 | • The system works very well, with few flaws <br> • The user interaction is intuitive <br> • Some elements are technically astounding |• Integrated demonstration that shows most elements of the project working together <br> • Demo gives an impression of the overall user interaction | • Demo of independent elements of the project without complete integration <br> • Demo shows project outcome but leaves viewer confused about which elements work properly <br> • Requests to recompile or reconfigure the system during demo to show different elements | 
 | Technical Insight | 40/100 | • Detailed reasoning is given for questions about design and implementation <br> • Question responses show complete understanding of technical challenges and solutions <br> • Plausible suggestions for addressing flaws |• Answers to most questions show understanding of technical details <br> • Justification for most design and implementation decisions <br> • Honest discussion of limitations | • Elements of the project are demonstrated but there is a dubious explanation about why they work or don't work <br> • Third-party libraries are demonstrated without discussion about their limitations, or how they should be integrated into the system |
