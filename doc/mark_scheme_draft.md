@@ -40,7 +40,7 @@
 | Lifelong Learning | Plan and record self-learning and development as the foundation for lifelong learning/CPD|
 
 
-### Demonstration
+### Interview and Demonstration
 |**Weighting of presentation in module mark** | **40/100** |
 | ----------- | -------- |
 
